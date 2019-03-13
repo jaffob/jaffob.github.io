@@ -1,0 +1,39 @@
+#outer {
+	max-width: 1000px;
+	margin: auto;
+}
+
+#top-title {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 700;
+	font-size: 28pt;
+	padding-top: 32px;
+}
+
+div.topnav {
+	padding-top: 16px;
+	padding-bottom: 16px;
+	border-bottom: 1px solid gray;
+}
+
+ul.topnav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li.topnav {
+	display: inline;
+}
+
+a.link-major {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 600;
+	font-size: 14pt;
+	color: blue;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-left: 16px;
+	padding-right: 16px;
+	margin: 0px;
+}
